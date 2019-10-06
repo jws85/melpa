@@ -1,0 +1,4 @@
+(calc-currency-oxr
+ :fetcher github
+ :repo "jws85/calc-currency"
+ :files ("calc-currency-oxr.el"))

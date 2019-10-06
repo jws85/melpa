@@ -1,0 +1,4 @@
+(calc-currency
+ :fetcher github
+ :repo "jws85/calc-currency"
+ :files ("calc-currency.el" "calc-currency-ecb.el" "calc-currency-utils.el"))
